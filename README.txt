@@ -1,4 +1,14 @@
 Programmed in Atmel Studio 7.0
+Project Demo: https://www.youtube.com/watch?v=n-rYW4dOVc8 
 
-To program on chip, set directories to include the "inlcudes" folder
-Program Simon Says and the program the eeprom to make sure it's zero
+Complexities:
+  - IR Sensors
+  - LED Matrix
+  - EEPROM
+  - Custom ASCII Characters
+  - Shift Registers
+
+Programming:
+  - Set directories to include the "inlcudes" folder
+  - Program the code in the Simon Says folder.
+  - Then program the eeprom folder to set the eeprom to zero
